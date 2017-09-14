@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bel": "^5.1.0",
+    "nanocomponent": "^6.4.0",
+    "simplemde": "^1.11.2"
+  },
+  "devDependencies": {
+    "sheetify": "^6.1.1"
+  }
+}
